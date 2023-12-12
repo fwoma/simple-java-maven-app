@@ -1,4 +1,4 @@
-3pipeline {
+pipeline {
     agent {
         docker {
             image 'maven'
